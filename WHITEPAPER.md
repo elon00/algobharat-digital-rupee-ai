@@ -1,7 +1,9 @@
-# AlgoBharat Digital Rupee AI (`$ABRUPEE`) — Technical White Paper
+> Prototype design document. Architecture, tokenomics and security claims require source-bound validation before release.
+
+# AlgoBharat Cryptocurrency Token (`$ABRUPEE`) — Technical White Paper
 
 ## Abstract
-CBDC and stablecoin interoperability layer. Designed with high-throughput execution, post-quantum security vaults, and deterministic state guarantees.
+Cryptocurrency token and blockchain application prototype. Designed with high-throughput execution, post-quantum security vaults, and deterministic state guarantees.
 
 ## Tokenomics & Bonding Curve Formulation
 The pricing function follows a continuous invariant curve:

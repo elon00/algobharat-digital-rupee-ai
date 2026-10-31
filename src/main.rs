@@ -1,14 +1,14 @@
-// AlgoBharat Digital Rupee AI ($ABRUPEE) — Web4 Autonomous Invariant State Engine
-// Ecosystem: Algorand | Category: CBDC
+// AlgoBharat Cryptocurrency Token ($ABRUPEE) — Web4 Autonomous Invariant State Engine
+// Ecosystem: Algorand | Category: cryptocurrency token
 
 fn main() {
     println!("============================================================");
-    println!("  AlgoBharat Digital Rupee AI ($ABRUPEE) — Invariant Engine Online");
-    println!("  Ecosystem: Algorand | Category: CBDC");
-    println!("  NIST FIPS 203 (ML-KEM-768) & FIPS 204 (ML-DSA-65) Active");
+    println!("  AlgoBharat Cryptocurrency Token ($ABRUPEE) — Invariant Engine Online");
+    println!("  Ecosystem: Algorand | Category: cryptocurrency token");
+    println!("  PQC integration: NOT_IMPLEMENTED_IN_THIS_SIMULATION");
     println!("============================================================");
 
-    // 64-bit continuous non-linear Conway bitboard simulation
+    // 64-bit deterministic integer simulation
     let mut bitboard: u64 = 0x8040201008040201;
     let iterations = 10_000;
     

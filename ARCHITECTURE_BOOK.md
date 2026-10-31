@@ -1,7 +1,9 @@
-# AlgoBharat Digital Rupee AI — System Architecture & Topology
+> Prototype design document. Architecture, tokenomics and security claims require source-bound validation before release.
+
+# AlgoBharat Cryptocurrency Token — System Architecture & Topology
 
 ## Executive Overview
-**AlgoBharat Digital Rupee AI** (`$ABRUPEE`) is a sovereign Web4 protocol engineered for the **Algorand** ecosystem under the **CBDC** domain.
+**AlgoBharat Cryptocurrency Token** (`$ABRUPEE`) is a sovereign Web4 protocol engineered for the **Algorand** ecosystem under the **cryptocurrency token** domain.
 
 ```
        +------------------------------------------------+

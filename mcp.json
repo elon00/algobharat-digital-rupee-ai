@@ -1,27 +1,8 @@
 {
-  "mcpServers": {
-    "algobharat-digital-rupee-ai": {
-      "command": "cargo",
-      "args": [
-        "run",
-        "--release",
-        "--quiet"
-      ],
-      "env": {
-        "RUST_LOG": "info",
-        "HACKATHON_TRACK": "Algorand",
-        "PROJECT_TICKER": "ABRUPEE"
-      },
-      "tools": [
-        {
-          "name": "verify_abrupee_invariants",
-          "description": "Verifies deterministic invariants for AlgoBharat Digital Rupee AI on Algorand."
-        },
-        {
-          "name": "execute_abrupee_action",
-          "description": "Executes authenticated CBDC state transition."
-        }
-      ]
-    }
+  "mcpServers": {},
+  "integrationPlan": {
+    "status": "NOT_IMPLEMENTED",
+    "project": "AlgoBharat Cryptocurrency Token",
+    "requirement": "Implement and test an MCP JSON-RPC server before enabling executable agent tools."
   }
 }

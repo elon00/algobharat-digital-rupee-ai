@@ -2,11 +2,11 @@
 pragma solidity ^0.8.20;
 
 /**
- * @title AlgoBharat Digital Rupee AI Smart Contract
- * @notice Automated Invariant Protocol for Algorand (CBDC)
+ * @title AlgoBharat Cryptocurrency Token Smart Contract
+ * @notice EVM research prototype; Algorand native token support requires a separate implementation
  */
 contract ABRUPEEProtocol {
-    string public constant name = "AlgoBharat Digital Rupee AI";
+    string public constant name = "AlgoBharat Cryptocurrency Token";
     string public constant symbol = "ABRUPEE";
     uint8 public constant decimals = 18;
     uint256 public totalSupply;
